@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Kishor-Malakar
 - 👀 I’m interested in Web-Development
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me: malakarkishor24@gmail.com
